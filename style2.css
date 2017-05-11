@@ -1,0 +1,38 @@
+h1 {
+	text-align: center;
+	font-family: 'CodyStar', cursive;
+	color:Paleturquoise;
+}
+
+ul {
+	text-align: center;
+	color:PurpleTurquoise;
+}
+
+p {
+	text-align: center;
+	color: HoneyDew; 
+	font-family: 'Poiret One', cursive;
+}
+
+li { 
+	color: HoneyDew;
+	font-family: 'Poiret One', cursive;
+}
+
+form {
+	text-align: center;
+	font-family: 'Poiret One', cursive; 
+	color: HoneyDew; 
+}
+
+.page2-img {
+	 -webkit-box-shadow: 3px 0px 3px 0px rgba(0, 0, 50, 0.97);
+	-moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+	box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+	width:500px;
+	height:300px; 
+	position:relative;
+	left:420px;
+	margin: auto;
+}
