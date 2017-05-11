@@ -1,0 +1,72 @@
+h1 {
+ color:DodgerBlue;
+ font-family: 'Codystar', cursive;
+text-align: center; 
+}
+
+
+p {
+	color:MidnightBlue;
+	font-family: 'Poiret One', cursive;
+	font-size:	20px;
+}
+
+h2 {
+	color: DodgerBlue; 
+	font-family: 'Codystar', cursive; 
+	text-align: left; 
+}
+
+li {
+	color: MidnightBlue; 
+	font-family: 'Poiret One', cursive;
+	font-size: 16px;
+	text-align: center; 
+}
+
+
+.girlswhocodegwc-logo 
+	
+(publish website: https://www.wysiwygwebbuilder.com/publish.html)
+
+
+Sumit page
+<DOCTYPE! hmtl>
+<html>
+<head>
+<title>Welcome!</title>
+
+<style>
+body {
+background-color: AliceBlue;
+}
+h1 {
+text-align: center;
+color: LightBlue;
+}
+</style>
+
+</head>
+<body>
+<div style="background-color:White;color:LightSkyBlue;padding:20px;">
+
+<ul>
+
+<li><a href="home.html">Home Page</a>
+
+<li><a href="aboutus.html">About Us</a>
+
+<li><a href="https://docs.google.com/forms/d/1UIqOLCipn_uSohq-zCtbHeJmdxBmKH3IpGd1YJCPfi8/edit?ts=58a5163f" target="blank">Ludopy Check-in Quiz</a>
+
+<li><a href="page2.html">Back To Login Page</a>
+
+</ul>
+
+</div>
+
+<h1>Thank you for joining Ludopy!</h1>
+
+<a href="">
+  <img src="" alt="" style="width:42px;height:42px;border:0;">
+</a>
+
